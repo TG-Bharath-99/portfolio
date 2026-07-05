@@ -1,0 +1,22 @@
+/* ==============================
+   App-level Styles
+   ============================== */
+
+/* Smooth section transitions */
+section {
+  position: relative;
+}
+
+/* Divider between sections */
+.section-divider {
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(99, 102, 241, 0.2),
+    rgba(168, 85, 247, 0.2),
+    transparent
+  );
+  margin: 0 auto;
+  max-width: 80%;
+}
