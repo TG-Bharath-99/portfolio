@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
-import { ExternalLink, Github, Layers } from "lucide-react";
+import { ExternalLink, Layers } from "lucide-react";
+import { Github } from "../UI/BrandIcons";
 import { projects } from "../../data/portfolio";
 import SectionHeading from "../UI/SectionHeading";
 import GlassCard from "../UI/GlassCard";

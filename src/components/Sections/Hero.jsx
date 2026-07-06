@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
-import { ArrowDown, Github, Linkedin, FileText } from "lucide-react";
+import { ArrowDown, FileText } from "lucide-react";
+import { Github, Linkedin } from "../UI/BrandIcons";
 import { personalInfo, contactInfo, stats } from "../../data/portfolio";
 import { useTypewriter } from "../../hooks/useTypewriter";
 import Button from "../UI/Button";

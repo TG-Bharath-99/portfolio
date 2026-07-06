@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
-import { Mail, Phone, MapPin, Github, Linkedin, Send, ArrowUpRight } from "lucide-react";
+import { Mail, Phone, MapPin, Send, ArrowUpRight } from "lucide-react";
+import { Github, Linkedin } from "../UI/BrandIcons";
 import { contactInfo } from "../../data/portfolio";
 import SectionHeading from "../UI/SectionHeading";
 import GlassCard from "../UI/GlassCard";

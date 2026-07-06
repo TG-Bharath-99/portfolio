@@ -1,4 +1,5 @@
-import { Github, Linkedin, Mail, Heart } from "lucide-react";
+import { Mail, Heart } from "lucide-react";
+import { Github, Linkedin } from "../UI/BrandIcons";
 import { contactInfo } from "../../data/portfolio";
 
 const socialLinks = [
